@@ -97,7 +97,6 @@ playsound2==0.1
 prometheus-client==0.12.0
 prompt-toolkit==3.0.23
 protobuf==3.17.3
-PyAudio @ file:///C:/Users/Thibault/AppData/Local/Programs/Python/Python39/Scripts/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.52
 pycparser==2.21
 pydantic==1.8.2
